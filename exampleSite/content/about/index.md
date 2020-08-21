@@ -8,6 +8,9 @@ title = "About us"
 [menu.footer]
 name = "About"
 weight = 2
+[menu.main]
+name = "About"
+weight = 2
 
 +++
 Our main goal is to furnish you with legitimate, exact, and valuable audits that let you settle on an educated choice about what item is best for your prerequisites.
