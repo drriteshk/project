@@ -5,6 +5,26 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: exampleSite/content/Disclaimer
+  label: Disclaimer
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/Privacy policy
+  label: Privacy policy
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/Terms and Conditions
+  label: terms and condition
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/about
+  label: About
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/content
   label: Post
   create: documents
