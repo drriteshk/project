@@ -32,4 +32,5 @@ fields:
     required: false
   label: discription
 pages:
+- exampleSite/content/Terms and Conditions/index.md
 - exampleSite/content/about/index.md
