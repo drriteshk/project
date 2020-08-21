@@ -4,6 +4,9 @@ date = 2020-08-20T19:00:00Z
 discription = ""
 image = ""
 title = "Privacy Policy"
+[menu.footer]
+name = "privacy policy"
+weight = 4
 
 +++
 1\. Introduction

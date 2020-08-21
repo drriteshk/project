@@ -4,6 +4,9 @@ date = 2020-08-20T19:00:00Z
 discription = ""
 image = ""
 title = "Terms and condition"
+[menu.footer]
+name = "Terms & Condition"
+weight = 5
 
 +++
 Introduction
