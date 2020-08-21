@@ -26,10 +26,10 @@ fields:
   config:
     required: false
   label: author
-- name: meta_discription
+- name: discription
   type: text
   config:
     required: false
-  label: Meta discription
+  label: discription
 pages:
 - exampleSite/content/about/index.md
