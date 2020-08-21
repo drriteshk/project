@@ -31,3 +31,5 @@ fields:
   config:
     required: false
   label: Meta discription
+pages:
+- exampleSite/content/about/index.md
