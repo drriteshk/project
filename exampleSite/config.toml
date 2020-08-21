@@ -22,7 +22,7 @@ copyright = "We participate in the Amazon Services LLC Associates Program, an af
 description = "Doctorwriting is a technology/computer review and information website that is designed to help you make better decisions about your Technology purchases."
 google_analitycs_id = "164203411"
 google_tag_manager = "6001841071"
-home = "Home"
+home = "Blog"
 logo = "/images/final-logo.png"
 social = []
 [params.banner]
