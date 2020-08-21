@@ -32,6 +32,7 @@ fields:
     required: false
   label: discription
 pages:
+- exampleSite/content/Disclaimer/index.md
 - exampleSite/content/Privacy policy/index.md
 - exampleSite/content/Terms and Conditions/index.md
 - exampleSite/content/about/index.md
