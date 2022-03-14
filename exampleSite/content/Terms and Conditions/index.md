@@ -11,9 +11,9 @@ weight = 5
 +++
 Introduction
 
-Welcome to Doctorwriting (“Company”, “we”, “our”, “us”)!
+Welcome to Tutiontech (“Company”, “we”, “our”, “us”)!
 
-These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") (together or individually “Service”) operated by Doctorwriting.
+These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") (together or individually “Service”) operated by Tutiontech.
 
 Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard, and disclose information that results from your use of our web pages.
 
@@ -47,7 +47,7 @@ We issue refunds for Contracts within 0 days of the original purchase of the Con
 
 6\. Content
 
-The content found on or through this Service are the property of Doctorwriting or used with permission. You may not distribute, modify, transmit, reuse, download, repost, copy, or use said Content, whether in whole or in part, for commercial purposes or for personal gain, without express advance written permission from us.
+The content found on or through this Service are the property of Tutiontech or used with permission. You may not distribute, modify, transmit, reuse, download, repost, copy, or use said Content, whether in whole or in part, for commercial purposes or for personal gain, without express advance written permission from us.
 
 7\. Prohibited Uses
 
@@ -95,7 +95,7 @@ Service is intended only for access and use by individuals at least eighteen (18
 
 10\. Intellectual Property
 
-Service and its original content (excluding Content provided by users), features, and functionality are and will remain the exclusive property of Doctorwriting and its licensors. Service is protected by copyright, trademark, and other laws of and foreign countries. Our trademarks may not be used in connection with any product or service without the prior written consent of Doctorwriting.
+Service and its original content (excluding Content provided by users), features, and functionality are and will remain the exclusive property of Tutiontech and its licensors. Service is protected by copyright, trademark, and other laws of and foreign countries. Our trademarks may not be used in connection with any product or service without the prior written consent of Tutiontech.
 
 11\. Copyright Policy
 
@@ -129,9 +129,9 @@ You may provide us either directly at riteshkhemani93@gmail.com or via third-par
 
 14\. Links To Other Web Sites
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by Doctorwriting.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Tutiontech.
 
-Doctorwriting has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
+Tutiontech has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
 For example, the outlined Terms of Use have been created using PolicyMaker.io a free web application for generating high-quality legal documents. PolicyMaker’s Terms and condition generator is an easy-to-use free tool for creating an excellent standard Terms of Service template for a website, blog, e-commerce store, or app.
 
@@ -193,4 +193,4 @@ BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE
 
 Please send your feedback, comments, requests for technical support by email: riteshkhemani93@gmail.com.
 
-These Terms of services were created for [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") by PolicyMaker.io on 2020-08-20.
+These Terms of services were created for [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") by PolicyMaker.io on 2020-08-20.
