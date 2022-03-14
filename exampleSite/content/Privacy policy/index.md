@@ -11,11 +11,11 @@ weight = 4
 +++
 1\. Introduction
 
-Welcome to Doctorwriting.
+Welcome to Tutiontech.com
 
-Doctorwriting (“us”, “we”, or “our”) operates [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") (hereinafter referred to as “Service”).
+Tutiontech (“us”, “we”, or “our”) operates [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") (hereinafter referred to as “Service”).
 
-Our Privacy Policy governs your visit to [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") and explains how we collect, safeguard, and disclose information that results from your use of our Service.
+Our Privacy Policy governs your visit to [https://tutiontech.com/](https://tutiontech.com/  "https://tutiontech.com/") and explains how we collect, safeguard, and disclose information that results from your use of our Service.
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -23,7 +23,7 @@ Our Terms and Conditions (“Terms”) govern all use of our Service and togethe
 
 2\. Definitions
 
-SERVICE means the [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") website operated by Doctorwriting.
+SERVICE means the [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") website operated by Tutiontech
 
 PERSONAL DATA means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -93,7 +93,7 @@ While using our Service, we may also collect the following information: sex, age
 
 5\. Use of Data
 
-Doctorwriting uses the collected data for various purposes:
+tutiontech uses the collected data for various purposes:
 
 0\.1. to provide and maintain our Service;
 
@@ -135,7 +135,7 @@ If you are located outside Pakistan and choose to provide information to us, ple
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Doctorwriting will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Tutiontech will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 8\. Disclosure of Data
 
@@ -297,4 +297,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us by email: riteshkhemani93@gmail.com.
 
-This Privacy policy was created for [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") by Policymaker.io on 2020-08-20.
+This Privacy policy was created for [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") by Policymaker.io on 2022-08-20.
