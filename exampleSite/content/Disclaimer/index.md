@@ -11,7 +11,7 @@ weight = 3
 +++
 WEBSITE DISCLAIMER
 
-The information provided by Doctorwriting (“Company”, “we”, “our”, “us”) on [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") (the “Site”) is for general informational purposes only. All information on the Site is provided in good faith, however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.
+The information provided by Tutiontech (“Company”, “we”, “our”, “us”) on [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") (the “Site”) is for general informational purposes only. All information on the Site is provided in good faith, however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.
 
 UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.
 
@@ -27,7 +27,7 @@ PROFESSIONAL DISCLAIMER
 
 The Site can not and does not contain legal advice. The information is provided for general informational and educational purposes only and is not a substitute for professional legal advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of legal advice.
 
-Content published on [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") is intended to be used and must be used for informational purposes only. It is very important to do your own analysis before making any decision based on your own personal circumstances. You should take independent legal advice from a professional or independently research and verify any information that you find on our Website and wish to rely upon.
+Content published on [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") is intended to be used and must be used for informational purposes only. It is very important to do your own analysis before making any decision based on your own personal circumstances. You should take independent legal advice from a professional or independently research and verify any information that you find on our Website and wish to rely upon.
 
 THE USE OR RELIANCE OF ANY INFORMATION CONTAINED ON THIS SITE IS SOLELY AT YOUR OWN RISK.
 
@@ -47,20 +47,20 @@ The views and opinions contained in the testimonials belong solely to the indivi
 
 ERRORS AND OMISSIONS DISCLAIMER
 
-While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, Doctorwriting is not responsible for any errors or omissions or for the results obtained from the use of this information. All information in this site is provided “as is”, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.
+While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, Tutiontech is not responsible for any errors or omissions or for the results obtained from the use of this information. All information in this site is provided “as is”, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.
 
-In no event will Doctorwriting, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.
+In no event will Tutiontech, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 GUEST CONTRIBUTORS DISCLAIMER
 
-This Site may include content from guest contributors and any views or opinions expressed in such posts are personal and do not represent those of Doctorwriting or any of its staff or affiliates unless explicitly stated.
+This Site may include content from guest contributors and any views or opinions expressed in such posts are personal and do not represent those of Tutiontech or any of its staff or affiliates unless explicitly stated.
 
 LOGOS AND TRADEMARKS DISCLAIMER
 
-All logos and trademarks of third parties referenced on [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of Doctorwriting by such owners.
+All logos and trademarks of third parties referenced on [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of Doctorwriting by such owners.
 
 CONTACT US
 
 Should you have any feedback, comments, requests for technical support, or other inquiries, please contact us by email: rieshkhemani93@gmail.com.
 
-This Disclaimer was created for [https://doctorwriting.com/](https://doctorwriting.com/ "https://doctorwriting.com/") by PolicyMaker.io on 2020-08-20.
+This Disclaimer was created for [https://tutiontech.com/](https://tutiontech.com/ "https://tutiontech.com/") by PolicyMaker.io on 2020-08-20.
