@@ -1,6 +1,6 @@
 +++
 author = "John Doe"
-categories = ["Gadgets for easy life"]
+categories = []
 date = 2019-11-07T05:00:00Z
 description = "With a 180-degree viewing angle, two-way audio, a motion sensor, and a treat dispenser, the Skymee Petalk AI II rivals the Furbo as an interactive pet camera."
 image = "/images/dog.webp"
