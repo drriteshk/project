@@ -23,7 +23,7 @@ description = "Tutiontech is a technology/computer review and information websit
 google_analitycs_id = "G-KBGBJ7MFKW"
 google_tag_manager = ""
 home = "Blog"
-logo = "/images/final-logo.png"
+logo = "/images/e72183cd30104aff813dc7f2912a0961.png"
 social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
