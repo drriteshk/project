@@ -1,5 +1,5 @@
 +++
-author = "Mark Dinn"
+author = "lolo"
 date = 2020-08-20T19:00:00Z
 discription = "Get all your technology products with best deals. We are offering the safest and guaranteed products."
 image = "/images/about-jpg.jpg"
