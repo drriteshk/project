@@ -4,12 +4,10 @@ date = 2020-08-20T19:00:00Z
 discription = "Get all your technology products with best deals. We are offering the safest and guaranteed products."
 image = "/images/about-jpg.jpg"
 meta_discription = ""
-title = "About us"
+title = "About"
 [menu.footer]
-name = "About"
 weight = 2
 [menu.main]
-name = "About"
 weight = 2
 
 +++
