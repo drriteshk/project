@@ -1,7 +1,7 @@
 +++
 author = "Mark dinn"
 categories = ["Meta Data"]
-date = 2022-05-15T05:00:00Z
+date = 2022-03-17T05:00:00Z
 description = "The best CPU for RTX 3070 to buy in 2022"
 image = "/images/1img.jpg"
 title = "Best CPU for NVIDIA RTX 3070 in 2022"
