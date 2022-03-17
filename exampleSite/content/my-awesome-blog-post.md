@@ -1,9 +1,9 @@
 +++
 author = "Mark Dinn"
 categories = ["Meta Data"]
-date = 2019-11-07T05:00:00Z
+date = 2022-05-15T05:00:00Z
 description = "This is meta description"
-image = "/images/post/post-1.jpg"
+image = "/images/1img.jpg"
 title = "Best CPU for NVIDIA RTX 3070 in 2022"
 type = "post"
 
