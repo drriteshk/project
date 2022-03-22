@@ -22,6 +22,10 @@ our reccommendations
 
 ![](/images/1.jpg)
 
+<button type="button" class="button">
+  <span class="button__text">View on amazon</span>
+</button>
+
 **Brand:** Intel | **No. of Cores:** 10 | **No. of Threads:** 20 | **Lithography:** 14 nm | **Socket:** LGA1200 | **Max. Frequency:** 5.3 GHz | **Base Clock:** 3.7 GHz | **TDP:** 125 Watts | **Effective Cache:** 20 MB | **PCIe Version:** 3 | **Unlocked:** Yes | **Inbox Cooler:** No | **Dimensions:** 3.54 x 5.24 x 6.1 inches
 
 **What recent buyers report?**
