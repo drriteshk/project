@@ -22,17 +22,43 @@ our reccommendations
 
 ![](/images/1.jpg)
 
-<!DOCTYPE html>
+<style>
 
-<html>
+.button {
+
+  border: none;
+
+  color: white;
+
+  padding: 15px 32px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  font-size: 16px;
+
+  margin: 4px 2px;
+
+  cursor: pointer;
+
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+
+</style>
+
+</head>
 
 <body>
 
-<h1>The button Element</h1>
+<h1>The button element - Styled with CSS</h1>
 
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+<p>Change the background color of a button with the background-color property:</p>
 
- 
+<button class="button button1">Green</button>
 
 </body>
 
