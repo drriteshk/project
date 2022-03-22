@@ -8,7 +8,7 @@ title = "Best CPU for NVIDIA RTX 3070 in 2022"
 type = "post"
 
 +++
-Nvidia RTX 3070 is the second one technology of Ray-tracing enabled picture card with committed ray-tracing cores and tensor cores. It is an critical a part of a high-cease gaming PC, retaining on account that the brand new video games are actually beginning to guide ray tracing technology. This pictures card appreciably improves reflections and lightning inside your game, making the entirety from landscapes, cars, and towns appearance extra realistic. Read directly to discover extra.
+vidia RTX 3070 is the second one technology of Ray-tracing enabled picture card with committed ray-tracing cores and tensor cores. It is an critical a part of a high-cease gaming PC, retaining on account that the brand new video games are actually beginning to guide ray tracing technology. This pictures card appreciably improves reflections and lightning inside your game, making the entirety from landscapes, cars, and towns appearance extra realistic. Read directly to discover extra.
 
 At A glance.
 
@@ -23,15 +23,15 @@ our reccommendations
 ![](/images/1.jpg)
 <style>
 .button {
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
