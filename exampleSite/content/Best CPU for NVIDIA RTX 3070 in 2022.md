@@ -22,6 +22,7 @@ our reccommendations
 
 ![](/images/1.jpg)
 
+<a href="false" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://www.niftybuttons.com/amazon/amazon-button2.png"></a>
 **Brand:** Intel | **No. of Cores:** 10 | **No. of Threads:** 20 | **Lithography:** 14 nm | **Socket:** LGA1200 | **Max. Frequency:** 5.3 GHz | **Base Clock:** 3.7 GHz | **TDP:** 125 Watts | **Effective Cache:** 20 MB | **PCIe Version:** 3 | **Unlocked:** Yes | **Inbox Cooler:** No | **Dimensions:** 3.54 x 5.24 x 6.1 inches
 
 **What recent buyers report?**
@@ -30,7 +31,7 @@ This processor is the first-rate that Intel has to provide in 2021. You will wan
 
 **Why it stands out to us?**
 
-Intel Core i9-10900K gives the very best viable single-center overall performance through a processor withinside the market. If you aren't a full-time streamer, then this processor’s in-sport overall performance blended with an RTX3070 is unmatched. You gets solid 100+ fps on 1080p extremely settings on GPU extensive video games like Metro Exodus, PUBG, and Assassins Creed Odyssey
+Intel Core i9-10900K gives the very best viable single-center overall performance through a processor with inside the market. If you aren't a full-time streamer, then this processor’s in-sport overall performance blended with an RTX3070 is unmatched. You gets solid 100+ fps on 1080p extremely settings on GPU extensive video games like Metro Exodus, PUBG, and Assassins Creed Odyssey
 
 **Who will use it most?**
 
