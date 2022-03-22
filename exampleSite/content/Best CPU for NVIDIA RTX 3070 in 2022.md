@@ -18,7 +18,7 @@ You are a gamer or a content material writer in case you are seeking out the gre
 
 our reccommendations
 
-## **1.** **Intel Core i9-10900K**
+## **1.** **Intel Core i9-10900**
 
 ![](/images/1.jpg)
 
