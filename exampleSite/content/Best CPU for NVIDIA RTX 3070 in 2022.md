@@ -16,8 +16,6 @@ Nidia RTX 3070 is the second one technology of Ray-tracing enabled picture card 
 
 </button>
 
-<script src=[http://tutiontech.com/](http://tutiontech.com/ "http://tutiontech.com/")></script>
-
 At A glance.
 
 You want to be cautious whilst shopping for this type of beast picture card. Be certain which you are buying the excellent CPU for RTX 3070 in phrases of compatibility. Bottlenecking can fast arise among pc additives, so it’s critical that we very well observe that they run in concord with every other. CPU and RTX card is undeniably the maximum vital additives in PC overall performance at some stage in gaming, video editing, streaming, podcasting, or walking engineering simulations.
