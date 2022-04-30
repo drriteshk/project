@@ -10,7 +10,7 @@ type = "post"
 +++
 | Plugin | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Dropbox | [https://tutiontech.com/best-cpu-for-nvidia-rtx-3070-in-2022/] |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
