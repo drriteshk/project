@@ -43,7 +43,7 @@ You are a gamer or a content material writer in case you are seeking out the gre
 
 ![](/images/1.jpg)
 
-[![N|Solid](https://tutiontech.com/best-cpu-for-nvidia-rtx-3070-in-2022/)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://tutiontech.com/best-cpu-for-nvidia-rtx-3070-in-2022/)
 
 **Brand:** Intel | **No. of Cores:** 10 | **No. of Threads:** 20 | **Lithography:** 14 nm | **Socket:** LGA1200 | **Max. Frequency:** 5.3 GHz | **Base Clock:** 3.7 GHz | **TDP:** 125 Watts | **Effective Cache:** 20 MB | **PCIe Version:** 3 | **Unlocked:** Yes | **Inbox Cooler:** No | **Dimensions:** 3.54 x 5.24 x 6.1 inches
 
