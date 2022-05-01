@@ -33,7 +33,7 @@ Our Recommendations For Best CPU for NVIDIA RTX 3070 in 2022
 
 | Award | Modal | Design |
 | ------ | ------ | ----- |
-| Dropbox | [https://tutiontech.com/best-cpu-for-nvidia-rtx-3070-in-2022/] |
+| Dropbox | [https://tutiontech.com/best-cp |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
