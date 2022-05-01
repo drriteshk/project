@@ -19,6 +19,17 @@ type = "post"
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://tutiontech.com/best-cpu-for-nvidia-rtx-3070-in-2022/)
 
+library(downloadthis)
+
+mtcars %>%
+  download_this(
+    output_name = "mtcars data set",
+    output_extension = ".csv",
+    button_label = "Download data",
+    button_type = "warning",
+    has_icon = TRUE,
+    icon = "fa fa-save"
+  )
 
 Nidia RTX 3070 is the second one technology of Ray-tracing enabled picture card with committed ray-tracing cores and tensor cores. It is an critical a part of a high-cease gaming PC, retaining on account that the brand new video games are actually beginning to guide ray tracing technology. This pictures card appreciably improves reflections and lightning inside your game, making the entirety from landscapes, cars, and towns appearance extra realistic. Read directly to discover extra.
 
