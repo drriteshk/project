@@ -31,7 +31,7 @@ You are a gamer or a content material writer in case you are seeking out the gre
 
 Our Recommendations For Best CPU for NVIDIA RTX 3070 in 2022
 
-| Award | Modal | Design |
+| Award | Model | Design |
 | ------ | ------ | ----- |
 | Dropbox | [https://tutiontech.com/best-cp |
 | GitHub | [plugins/github/README.md][PlGh] |
