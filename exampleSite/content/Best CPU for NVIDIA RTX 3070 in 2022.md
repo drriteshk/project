@@ -8,8 +8,7 @@ title = "Best CPU for NVIDIA RTX 3070 in 2022"
 type = "post"
 
 +++
-mtcars %>%
-  download_this(
+ (
     output_name = "mtcars dataset",
     output_extension = ".csv",
     button_label = "Download data as csv",
