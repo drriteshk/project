@@ -8,14 +8,6 @@ title = "Best CPU for NVIDIA RTX 3070 in 2022"
 type = "post"
 
 +++
- (
-    output_name = "mtcars dataset",
-    output_extension = ".csv",
-    button_label = "Download data as csv",
-    button_type = "success",
-    has_icon = TRUE,
-    icon = "fa fa-save"
-  )
 
 | Plugin | README |
 | ------ | ------ |
