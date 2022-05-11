@@ -29,7 +29,7 @@ You are a gamer or a content material writer in case you are seeking out the gre
 
 ## **1.** **Intel Core i9-10900K**
 
-![](/images/11.png)
+![](/images/11.png "Intel Core i9-10900K")
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://tutiontech.com/best-cpu-for-nvidia-rtx-3070-in-2022/)
 
